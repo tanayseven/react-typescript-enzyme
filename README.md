@@ -25,3 +25,8 @@ npm test
 ```
 npm run build
 ```
+
+## To run the mock server run
+```
+npm run start-mock-server
+```
